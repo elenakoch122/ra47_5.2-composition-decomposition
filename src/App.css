@@ -1,0 +1,16 @@
+.news-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.news, .article, .search, .ad, .sections {
+  border: 1px solid #000;
+}
+
+.news {
+  flex: 3;
+}
+
+.article {
+  flex: 1;
+}
