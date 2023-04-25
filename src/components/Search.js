@@ -1,9 +1,9 @@
 import Logo from "./Logo";
-import SearchForm from "./SearchForm";
 import SearchNav from "./SearchNav";
+import SearchForm from "./SearchForm";
 
 // отображает блок поиска
-export default function Search({ list }) {
+export default function Search() {
   return (
     <div className="search"> Блок Поиск
       <Logo />

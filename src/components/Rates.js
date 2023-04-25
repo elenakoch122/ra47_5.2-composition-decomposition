@@ -1,5 +1,4 @@
 // отображает курсы валют
-export default function Rates({ list }) {
-  // return <div className="rates">Курсы валют</div>;
+export default function Rates() {
   return <div>{'<Rates />'}</div>;
 }

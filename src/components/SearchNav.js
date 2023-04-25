@@ -1,4 +1,4 @@
 // отображает разделы поиска
-export default function SearchNav({ list }) {
+export default function SearchNav() {
   return <div>{'<SearchNav />'}</div>;
 }

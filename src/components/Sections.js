@@ -1,7 +1,7 @@
 import Section from "./Section";
 
 // отображает различные разделы
-export default function Sections({ list }) {
+export default function Sections() {
   return (
     <div className="sections"> Блок Разделы
       <br />

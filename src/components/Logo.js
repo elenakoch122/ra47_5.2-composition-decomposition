@@ -1,4 +1,4 @@
 // отображает логотип
-export default function Logo({ list }) {
+export default function Logo({ img }) {
   return <div>{'<Logo />'}</div>;
 }

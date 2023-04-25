@@ -1,4 +1,4 @@
 // отображает форму поиска
-export default function SearchForm({ list }) {
+export default function SearchForm() {
   return <div>{'<SearchForm />'}</div>;
 }

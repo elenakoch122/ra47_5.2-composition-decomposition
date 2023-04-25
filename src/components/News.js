@@ -1,8 +1,9 @@
-import NewsList from "./NewsList";
 import NewsNavigation from "./NewsNavigation";
+import NewsList from "./NewsList";
 import Rates from "./Rates";
 
-export default function News({ list }) {
+// отображает блок новостей
+export default function News() {
   return (
     <div className="news">Блок Новости
       <br />
